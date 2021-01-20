@@ -1,0 +1,6 @@
+---
+name: BetterBedrock
+version: 0.0.1
+main: WolfDen133\BetterBedrock\Main
+api: 3.17.2
+...
