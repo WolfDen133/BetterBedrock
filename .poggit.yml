@@ -5,4 +5,5 @@ branches:
 projects:
   BetterBedrock:
     path: ""
+    icon: "bblogo.png"
 ...
